@@ -1,1 +1,1 @@
-Test
+![](./banner.svg)
